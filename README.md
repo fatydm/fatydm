@@ -7,7 +7,7 @@
 
 🚀 Objectif : contribuer à des projets open source, collaborer sur des applications utiles, et évoluer vers un poste de développeuse Fullstack, tout en continuant à apprendre et un jour pouvoir partager.
 
-🔎 Recherche : Une alternance à partir d'Octobre 2025 pour une durée de 12 mois - Rythme 4j/1j - En contrat d'apprentissage.
+🔎 Recherche : Une alternance pour une durée de 12 mois - Rythme 4j/1j - En contrat d'apprentissage.
 
 🛠️ Stack actuelle :
     - Frontend : **HTML, CSS, Javascript, React, Next.js, Tailwind CSS**
@@ -16,7 +16,6 @@
   
 ⚙️ Git & GitHub pour la gestion de projet
 
-✨ Centres d'intérêt : Voyages et Littérature
 
 📫 On peut échanger ?
 Si un de mes projets t'intéresse ou si tu souhaites m'avoir dans ton équipe pour que j'en apprennes davantage, n'hésite pas à me contacter ici ou sur LinkedIn: https://www.linkedin.com/in/fdiarra/
